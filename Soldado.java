@@ -82,6 +82,11 @@ private static Soldado mayor(Soldado[] soldados){
   
   }
   // row fila
+  public static int cant(Soldado[][] soldados){
+   
+  
+  }
+ 
   private static int cant(Soldado[] soldados, int rowi,int rowj,int coli,int colj) {
     // retorna objetos, e suna matriz de objetos...
     
